@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello Word! I'm Atika Maulida 👋
 Explore my journey in electronics, IoT, and automation projects here!✨
 
 <!--
