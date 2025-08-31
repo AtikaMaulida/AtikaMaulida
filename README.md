@@ -1,4 +1,5 @@
 ## Hi there 👋
+Explore my journey in electronics, IoT, and automation projects here!✨
 
 <!--
 **AtikaMaulida/AtikaMaulida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
